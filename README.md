@@ -1,1 +1,3 @@
-# statistics_with_python
+# Coursera - Statistics with Python Specialization
+
+This repo contains my notes & assignmnets. 
